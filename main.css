@@ -1,5 +1,7 @@
 body {
-    background-color:white;
+    background: #9E9E9E;
+    font-family: 'Playball', cursive;
+    font-size: 18px;
 
 }
 .container {
@@ -13,6 +15,7 @@ box-shadow:10px 10px 5px;
 border: 1px solid lightblue;
 margin-right: 33px;
 margin-top: 33px;
+background-color:#F5F5F5;
 }
 
 img {
@@ -52,8 +55,8 @@ ul{
     margin-bottom: 50px;
     flex-direction: column;
     width: 70%;
-    margin-right: 140px;
-    margin-left: 140px;
+    margin-right: 1300px;
+    margin-left: 130px;
     font-family:Tahoma, sans-serif;
 }
 
