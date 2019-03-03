@@ -1,5 +1,5 @@
 body {
-    background-color:blanchedalmond;
+    background-color:white;
 
 }
 .container {
@@ -37,11 +37,6 @@ header {
   border: 1px solid lightblue;
 }
 
-.Available {
-    color: yellow;
-    background-color: gray;
-}
-
 .spec {
   word-spacing: 0.25;
 }
@@ -51,6 +46,14 @@ ul{
 }
 .mary {
     margin-top: -15px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    flex-direction: column;
+    width: 70%;
+    margin-right: 140px;
+    margin-left: 140px;
+    font-family:Tahoma, sans-serif;
 }
 
 .zoe {
@@ -75,4 +78,34 @@ ul{
 p {
     display: flex;
     justify-content: center;
+}
+
+.Available {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    color: white;
+    background-color: lightblue;
+}
+
+.spec {
+    display: flex;
+    justify-content: center;
+}
+
+.dates {
+    display: flex;
+    justify-content: center;
+}
+
+.price {
+    display: flex;
+    justify-content: center;
+}
+
+.productTitle {
+    display: flex;
+    justify-content: center;
+    font-style: italic;
 }
