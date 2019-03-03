@@ -109,3 +109,23 @@ p {
     justify-content: center;
     font-style: italic;
 }
+.primaryParent {
+    position: relative;
+    top: 0;
+    left: 0;
+    display: flex;
+justify-content: center;
+flex-direction: column;
+  }
+  .image1 {
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  .image2 {
+    position: absolute;
+    top: 20px;
+    left: 2px;
+    image-resolution: 100%;
+    width: 100%;
+  }
