@@ -138,3 +138,16 @@ flex-direction: column;
   header {
       background-color: #03A9F4;
   }
+
+  @media screen {
+    .body {
+      width: 10%;
+    }
+    .img {
+
+    }
+  }
+
+  .productSpecifications {
+      text-align: center;
+  }
