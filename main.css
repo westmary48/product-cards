@@ -138,3 +138,8 @@ flex-direction: column;
   header {
       background-color: #03A9F4;
   }
+
+
+  .productSpecifications {
+      text-align: center;
+  }
