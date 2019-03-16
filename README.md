@@ -17,4 +17,4 @@ $npm install -g http-server
 Browse to pie directory and run http server
 
 ## Screenshot
-
+![alt text](./images/image.png)
