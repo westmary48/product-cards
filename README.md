@@ -17,4 +17,4 @@ $npm install -g http-server
 Browse to pie directory and run http server
 
 ## Screenshot
-![alt text](./images/image.png)
+![alt text](https://raw.githubusercontent.com/westmary48/product-cards/master/image/image.png)
